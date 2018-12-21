@@ -16,7 +16,7 @@ main{
     box-sizing: border-box;
     border-color: black;
     border-style: solid;
-    border-spacing: 3px;
+    border-spacing: 1px;
 }
 nav{
     width: 15%;
